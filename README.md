@@ -1,6 +1,7 @@
 # ros_msg
 
-Generating Message Header Files (Adding Custom Messages) refer to: http://wiki.ros.org/rosserial/Tutorials/Adding%20Other%20Messages
+Generating Message Header Files (Adding Custom Messages) refer to: http://wiki.ros.org/rosserial/Tutorials/Adding%20Other%20Messages\r\n
+
 rosserial_client package is used to generate header files for messages
 generated messages will be added to ros_lib folder in arduino libraries subpath
 (delete ros_lib  if it exists prior to installing rosserial_client package)
