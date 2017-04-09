@@ -1,4 +1,7 @@
 # ros_msg
+Arduino IDE Setup using rosserial_arduino package, which provides a ROS communication protocol that works over Arduino's UART.
+    #include <ros.h>
+    to use rosserial libraries in the code
 
 Generating Message Header Files (Adding Custom Messages) refer to: http://wiki.ros.org/rosserial/Tutorials/Adding%20Other%20Messages
 
